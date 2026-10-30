@@ -2,6 +2,12 @@
 
 奶油纸张、手绘拼贴、可互动地图和可爱动画组成的个人旅行网站，时间口径为「大学以来」。纯 HTML/CSS/JavaScript，无构建依赖和第三方运行服务。
 
+## 字体
+
+根据本人指定的参考网站 https://chuweimin.com/ 核实：中文展示文字使用 Noto Serif SC，英文和界面字使用 Manrope / Geist。字体来自 Google Fonts 官方仓库，随站点本地托管，附 SIL OFL 授权；未复制参考网站照片、文字或页面代码。
+
+字体文件按本站现有 HTML/JavaScript 文案制作了字符子集以控制体积。增加新的中文文案后，应重新制作 Noto Serif SC 子集；子集外字符会退回宋体系统字体。源字体与授权见 https://github.com/google/fonts/tree/main/ofl/notoserifsc 、https://github.com/google/fonts/tree/main/ofl/manrope 、https://github.com/google/fonts/tree/main/ofl/geist 。
+
 ## 内容与来源
 
 - 姓名和时间口径由本人提供。
